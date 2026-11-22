@@ -1,0 +1,3 @@
+deal_id,period_id,symbol,currency,lots,commission,fee
+example-entry,example-period,XAUUSD,USD,0.50,3.25,0.25
+example-exit,example-period,XAUUSD,USD,0.50,3.25,0.25
