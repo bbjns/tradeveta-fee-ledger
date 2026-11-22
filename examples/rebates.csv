@@ -1,0 +1,3 @@
+rebate_id,period_id,currency,amount,status
+example-posted,example-period,USD,2.00,posted
+example-pending,example-period,USD,0.50,pending
